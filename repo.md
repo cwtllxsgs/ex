@@ -7,6 +7,7 @@
 ######  比如“个人信息”与'“非个人信息”P72
 ----对个人信息的定义和概念处理
 ![enter description here](./images/1628210382821.png)
+
 GDPR的关于用户数据定义已非常清晰：personal identifier Information——就是说，如果可以通过该数据定位到用户，则该数据被认为是PII（personal identifier Information）其中既包括姓名、身份证号码、定位数据、在线身份识别等自然人的标识信息物理、也包括生理、遗传、心理、经济、文化或社会身份等自然人的要素。任何针对 PII的搜集，都必须明确的询问用户是否同意。
 
 ###### 域名-IP-相关
